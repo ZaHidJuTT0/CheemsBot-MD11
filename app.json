@@ -2,7 +2,7 @@
   "name": "CheemsBot-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DGXeon/CheemsBot-MD11",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "logo": "https://telegra.ph/file/2c9b58d98b1ac82e6c314.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
