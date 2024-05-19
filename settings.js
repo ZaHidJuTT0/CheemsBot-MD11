@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "https://youtube.com/@Zidii_decent_boy" //ur yt chanel name
-global.socialm = "GitHub: ZaHidJuTT0" //ur github or insta name
+global.ytname = "『࿇𝑺𝒂𝒊𝒇√ˢᴷᴿ࿇ 』" //ur yt chanel name
+global.socialm = "GitHub: 『࿇𝑺𝒂𝒊𝒇√ˢᴷᴿ࿇ 』" //ur github or insta name
 global.location = "Pakistan, Punjab, Lahore" //ur location
 
 //new
-global.botname = '𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙-𝙈𝘿' //ur bot name
-global.ownernumber = '923288330026' //ur owner number
-global.ownername = 'ᴍᴜʜᴀᴍᴍᴀᴅ-ᴍᴅ' //ur owner name
+global.botname = '『࿇𝑺𝒂𝒊𝒇√ˢᴷᴿ࿇ 』' //ur bot name
+global.ownernumber = '92320661775' //ur owner number
+global.ownername = '『࿇𝑺𝒂𝒊𝒇√ˢᴷᴿ࿇ 』' //ur owner name
 global.websitex = "https://youtube.com/@Zidii_decent_boy"
-global.wagc = "https://www.instagram.com/zidii_decent_boy?igsh=MXVobjVlMXBrYzcxbg=="
+global.wagc = "https://www.instagram.com/saif.rajput.s.k.r?igsh=YzljYTk1ODg3Zg=="
 global.themeemoji = '🔖'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/ZaHidJuTT0/CheemsBot-MD11' //script link
 global.packname = "穆罕默德  ̶ ᷦ ̶ͥ ͩ ̶ͥ ̶ͥ🩵̶³̶🪽"
 global.author = "🦋"
-global.creator = "923288330026@s.whatsapp.net"
+global.creator = "92320661775@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923288330026"] // Premium User
+global.premium = ["92320661775"] // Premium User
 global.hituet = 0
 
 //bot sett
